@@ -23,7 +23,7 @@
 		quantity = 250,
 		types = ['text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox'],
 		//greetings = ['张思卿', '', 'fuck', 'Boas Festas', 'Mutlu Bayramlar', 'Sarbatori Fericite', 'Jie Ri Yu Kuai', 'Bones Festes', 'Tanoshii kurisumasu wo', 'Buone Feste', 'Happy Holidays', 'Ii holide eximnandi', 'Frohe Feiertage', 'Prettige feestdagen', 'Beannachtaí na Féile', '圣诞快乐', 'Selamat Hari Raya', 'Sretni praznici'];
-	    greetings = ['致女票：', '圣诞节快乐~', '但企鹅也会过圣诞节吗哈哈~', '感谢我们的相遇.', '祝你永远快乐下去.', '做一只没心没肺的猫企兽吧~!', 'by 北方的一只猿'];
+	    greetings = ['致女票：', '圣诞节快乐~', '但企鹅也会过圣诞节吗哈哈~', '感谢我们的相遇,', '我会一直陪伴你.', '祝你永远快乐下去.', '做一只没心没肺的猫企兽吧~!', 'by 北方的一只猿'];
 
     var tree = document.querySelector('.tree'),
 		treeRotation = 0;
