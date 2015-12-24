@@ -89,6 +89,8 @@ header {
 		color: #fbb9b9;
 		text-decoration: none;
 		font-weight: bold;
+		font-size: 50px;
+		line-height: 50px;
 	}
 		header .attribution a:hover {
 			color: #fff;
